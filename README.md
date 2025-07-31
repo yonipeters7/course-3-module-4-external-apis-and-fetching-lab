@@ -3,9 +3,21 @@
 
 ## Introduction
 
-You’ve just joined the front-end development team of a national safety awareness organization. Your first assignment is to build a web application that fetches weather alerts from the National Weather Service API for a specific U.S. state. The app should dynamically display relevant alert headlines and handle edge cases like invalid input and network errors.
+You’ve just joined the front-end development team of a national safety awareness 
+organization in the US. Your first assignment is to build a web application that 
+fetches weather alerts from the National Weather Service API for a specific U.S. 
+state. The app should dynamically display relevant alert headlines and handle edge 
+cases like invalid input and network errors.
 
-This lab will strengthen your skills in using the `fetch()` API, working with JSON data, handling user input, and manipulating the DOM—all essential in modern web development.
+This lab will strengthen your skills in using the `fetch()` API, working with JSON 
+data, handling user input, and manipulating the DOM—all essential in modern web 
+development.
+
+### Note on US State Abbreviations
+
+For this application, you'll be using US state abbreviations. You can find a list of
+state abbreviations on the [US Federal Aviation Administration website](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/appendix_a.html).
+
 
 ## Tools & Resources
 
@@ -117,7 +129,8 @@ of alerts is displayed (i.e. 'Current watches, warnings, and advisories for New 
 
 ## Document and Maintain
 
-Once all tests are passing and the app is working as expected, push your working code to GitHub and submit.
+Once all tests are passing and the app is working as expected, push your working code 
+to GitHub and submit.
 
 ```bash
 git commit -am "final solution"
